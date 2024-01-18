@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+    }
+    
+    h1 {
+    color: #333;
+    }
+    
+    img {
+    border-radius: 50%;
+    max-width: 200px;
+    height: auto;
+    margin-top: 20px;
+    }
