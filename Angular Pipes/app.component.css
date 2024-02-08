@@ -1,0 +1,21 @@
+  .card {
+    background-color: #fff8e7;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    font-family: 'Lato', sans-serif;
+  }
+  
+  .card-content {
+    color: black; 
+
+  }
+
+  hr {
+    border: none;
+    height: 2px;
+    background-color: #ccc; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+  }
+  
